@@ -26,5 +26,6 @@ public class Main {
         for (Product product : filteredProducts) {
             System.out.println("Product ID: " + product.getId() + ", Name: " + product.getName() + ", Price: " + product.getPrice());
 
+        }
     }
 }
